@@ -22,6 +22,7 @@ Watch the GIF below to help you to understand this project!
 
 
   `from os import system  `
+<!-- -->
   `clear = lambda : system("clear") # place at the top of your code`
 
 
