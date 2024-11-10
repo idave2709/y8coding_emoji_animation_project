@@ -79,6 +79,8 @@ if blastoff == "e" or blastoff == "E":
     sleep(5.0)
     print("                                                                                                                                                                                                      ")
     print("👽👽👽👽👽👽👽👽 Our next animal will be the Mindspore, lets go see it! 👽👽👽👽👽👽👽")
+    print("                                                                                                                                                                                                    ")
+    sleep(2.0)
     print("""""""""    🧠💫🧠💫🧠
     🫧🔮✨🔮✨🔮🫧
     🌟💫🌀💫🌀💫🌟
@@ -97,6 +99,7 @@ if blastoff == "e" or blastoff == "E":
     print("                                                                                                                                                                                                      ")
     print("👽👽👽👽👽👽👽👽 Our next animal will be the Gravipede, lets go see it! 👽👽👽👽👽👽👽")
     print("                                                                                                                                                                                                      ")
+    sleep(2.0)
     print("""    🌀➰🌀➰🌀➰🌀➰🌀
     🌟⚡️💫⚡️💫⚡️💫⚡️💫🌟
     🌀➰🌀➰🌀➰🌀➰🌀➰🌀➰🌀
@@ -104,5 +107,41 @@ if blastoff == "e" or blastoff == "E":
     🌀➰🌀➰🌀➰🌀➰🌀➰🌀➰🌀
     🌟⚡️💫⚡️💫⚡️💫⚡️💫🌟
     🌀➰🌀➰🌀➰🌀➰🌀""")
+    sleep(2.0)
+    print("                                                                                                                                                                                                      ")
+    print("A serpentine creature with hundreds of gravity-manipulating organs along its segments, allowing it to walk on any surface or float through space between asteroids.")
+    sleep(5.0)
+    print("                                                                                                                                                                                                      ")
+    print("👽👽👽👽👽👽👽👽 Our next animal will be the Quantum Polyp, lets go see it! This will be our last one 👽👽👽👽👽👽👽")
+    print("                                                                                                                                                                                                    ")
+    sleep(2.0)
+    print("""👾👾👾👾👾
+    🌈✨🌀✨🌀✨🌈
+    💫🔮👻👻👻👻🔮💫
+    🌈✨🌀✨🌀✨🌀✨🌈
+    💫🔮👻👻👻👻👻👻🔮💫
+    🌈✨🌀✨🌀✨🌀✨🌈
+    💫🔮👻👻👻👻🔮💫
+    🌈✨🌀✨🌀✨🌈
+    👾👾👾👾👾""")
+    sleep(2.0)
+    print("                                                                                                                                                                                                      ")
+    print("A deep-sea creature that exists in multiple quantum states simultaneously. Can split into parallel versions of itself when threatened, then recombine later. Glows with an impossible color.")
+    sleep(5.0)
+    print("                                                                                                                                                                                                      ")
+    print(" LAST CHAPTER STARTING ")
+    print("                                                                                                                                                                                                      ")
+    print("This is the end of the tour! Oh I forgot, could I see your tickets!")
+    print("                                                                                                                                                                                                      ")
+    ticket = input("You forgot your ticket! Do you lie or tell the truth")
+    if ticket == "lie":
+        print("What do you mean you left it in the toilet? We can't go back we already exited. Do you know your ticket number?")
+        ticketnumber = input("What is the number?")
+        if ticketnumber == 1245123948:
+            print("Well Done! Have a great day.")
+        else:
+            print("That is incorrect, sorry to say but I am kicking you off the planet. YEEEEEEEEEEEEEEEEEEEEEEEEEETTTTTTTTTTTTTTTTTTT")
+    else:
+        print("Thank you for saying the truth but I still have to kick you off this planet. YEEEEEEEEEEEEEEEEEEEEEEEEEETTTTTTTTTTTTTTTTTTT")
 else:
-    print("Blastoff Failed, womp womp. (This is the end now. Enjoy your certified bozo certificate.)")
+    print("Womp, Womp you died.(This is the end now. Enjoy your certified bozo certificate.")
