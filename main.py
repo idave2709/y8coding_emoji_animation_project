@@ -59,17 +59,50 @@ if blastoff == "e" or blastoff == "E":
     🫧🫧💫💫💫💫💫💫💫💫🫧🫧
     🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️🌫️""""")
     sleep(2.0)
+    print("                                                                                                                                                                                                      ")
     print("The Floatwhale is a massive, translucent creature that drifts through gas giant atmospheres, filtering microorganisms with crystalline tendrils. Its body generates lifting gases to control altitude.")
-    sleep(1.0)
+    sleep(5.0)
+    print("                                                                                                                                                                                                      ")
     print("👽👽👽👽👽👽👽👽 Our next animal will be the Prismantis, lets go see it! 👽👽👽👽👽👽👽")
     print("                                                                                                                                                                                                    ")
     sleep(1.0)
-    print("""""" 🔮🔮🔮🔮🔮
-✨✨👁️💎💎💎👁️✨✨
-🦿🦿🦿🦿🦿🦿🦿
-🦿🦿🦿🦿🦿🦿🦿🦿🦿
-🦿🦿🦿🦿🦿🦿🦿🦿🦿🦿🦿
-⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
-✨💫✨💫✨💫✨💫"""""")
+    print("""     🔮🔮🔮🔮🔮
+    ✨✨👁️ 💎💎💎👁️ ✨✨
+    🦿🦿🦿🦿🦿🦿🦿
+    🦿🦿🦿🦿🦿🦿🦿🦿🦿
+    🦿🦿🦿🦿🦿🦿🦿🦿🦿🦿🦿
+    ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
+    ✨💫✨💫✨💫✨💫""")
+    sleep(2.0)
+    print("                                                                                                                                                                                                      ")
+    print(" A six-legged predator with iridescent scales that can bend light around itself for camouflage. Hunts using echolocation through its spiral-shaped antennae.")
+    sleep(5.0)
+    print("                                                                                                                                                                                                      ")
+    print("👽👽👽👽👽👽👽👽 Our next animal will be the Mindspore, lets go see it! 👽👽👽👽👽👽👽")
+    print("""""""""    🧠💫🧠💫🧠
+    🫧🔮✨🔮✨🔮🫧
+    🌟💫🌀💫🌀💫🌟
+    ⭐️🔮✨🔮✨🔮✨⭐️
+    🌟💫🌀💫🌀💫🌀💫🌟
+    🫧🔮✨🔮✨🔮✨🔮✨🔮🫧
+    🌟💫🌀💫🌀💫🌀💫🌟
+    ⭐️🔮✨🔮✨🔮✨⭐️
+    🌟💫🌀💫🌀💫🌟
+    🫧🔮✨🔮✨🔮🫧
+    🧠💫🧠💫🧠""""""""")
+    sleep(2.0)
+    print("                                                                                                                                                                                                      ")
+    print("A colonial fungus-like organism that forms neural networks between its nodes, creating a distributed intelligence. Communicates through bioluminescent pulses.")
+    sleep(5.0)
+    print("                                                                                                                                                                                                      ")
+    print("👽👽👽👽👽👽👽👽 Our next animal will be the Gravipede, lets go see it! 👽👽👽👽👽👽👽")
+    print("                                                                                                                                                                                                      ")
+    print("""    🌀➰🌀➰🌀➰🌀➰🌀
+    🌟⚡️💫⚡️💫⚡️💫⚡️💫🌟
+    🌀➰🌀➰🌀➰🌀➰🌀➰🌀➰🌀
+    🌟⚡️💫⚡️💫⚡️💫⚡️💫🌟
+    🌀➰🌀➰🌀➰🌀➰🌀➰🌀➰🌀
+    🌟⚡️💫⚡️💫⚡️💫⚡️💫🌟
+    🌀➰🌀➰🌀➰🌀➰🌀""")
 else:
     print("Blastoff Failed, womp womp. (This is the end now. Enjoy your certified bozo certificate.)")
