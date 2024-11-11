@@ -115,7 +115,7 @@ if blastoff == "e" or blastoff == "E":
     print("👽👽👽👽👽👽👽👽 Our next animal will be the Quantum Polyp, lets go see it! This will be our last one 👽👽👽👽👽👽👽")
     print("                                                                                                                                                                                                    ")
     sleep(2.0)
-    print("""👾👾👾👾👾
+    print("""    👾👾👾👾👾
     🌈✨🌀✨🌀✨🌈
     💫🔮👻👻👻👻🔮💫
     🌈✨🌀✨🌀✨🌀✨🌈
@@ -141,7 +141,9 @@ if blastoff == "e" or blastoff == "E":
             print("Well Done! Have a great day.")
         else:
             print("That is incorrect, sorry to say but I am kicking you off the planet. YEEEEEEEEEEEEEEEEEEEEEEEEEETTTTTTTTTTTTTTTTTTT")
+            print("Womp, Womp you died.(This is the end now. Enjoy your certified bozo certificate.")
     else:
         print("Thank you for saying the truth but I still have to kick you off this planet. YEEEEEEEEEEEEEEEEEEEEEEEEEETTTTTTTTTTTTTTTTTTT")
+        print("Womp, Womp you died.(This is the end now. Enjoy your certified bozo certificate.")
 else:
     print("Womp, Womp you died.(This is the end now. Enjoy your certified bozo certificate.")
